@@ -38,10 +38,12 @@ pip install -r requirements.txt
    ```bash
    git clone https://github.com/your-username/vapt-api-testing.git
    cd vapt-api-testing
+
 2. **Install the required Python packages:**
 
    ```bash
    pip install -r requirements.txt
+
 3. **Ensure that newman is installed:**
 
    ```bash
