@@ -1,7 +1,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 ![use-wisely](https://user-images.githubusercontent.com/79195338/161229028-2d3acfde-8028-45bc-ba1a-a397f0bc46e3.svg)
 
-# VAPT API Testing
+# VAPT API Testing Automation Script By HackWithAJ
 
 This repository contains a Python script for performing **VAPT** (Vulnerability Assessment and Penetration Testing) on APIs. The script integrates **Postman collection execution** and performs a series of vulnerability tests on APIs, such as **authentication attacks**, **authorization bypass**, **sensitive data exposure**, and **IDOR** (Insecure Direct Object Reference).
 
