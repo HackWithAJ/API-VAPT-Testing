@@ -31,7 +31,7 @@ You can install them using **pip**:
 ```bash
 pip install -r requirements.txt
 
-## Installation
+**## Installation**
 
 1. **Clone the repository**:
 
