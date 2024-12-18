@@ -1,6 +1,3 @@
-Sure, here's the Markdown code for the VAPT API Testing documentation:
-
-```markdown
 # VAPT API Testing
 
 This repository contains a Python script for performing **VAPT** (Vulnerability Assessment and Penetration Testing) on APIs. The script integrates **Postman collection execution** and performs a series of vulnerability tests on APIs, such as **authentication attacks**, **authorization bypass**, **sensitive data exposure**, and **IDOR** (Insecure Direct Object Reference).
