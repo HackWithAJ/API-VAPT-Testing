@@ -112,4 +112,3 @@ The following VAPT checks will be performed automatically:
 - **Authorization Testing**: It will test whether the API correctly rejects access with an invalid token and accepts access with a valid token.
 - **Sensitive Data Exposure**: The script checks if sensitive information, like passwords or tokens, is exposed in API responses.
 - **IDOR Testing**: It tests whether unauthorized users can access resources intended for others by using different user IDs.
-```
